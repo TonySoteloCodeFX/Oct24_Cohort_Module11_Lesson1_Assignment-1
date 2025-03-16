@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.headerContainer {
+    background-image: url(../public/tony.vfx_Vegeta_through_his_transformations_as_a_child_prince_o_29b52815-95c6-4249-8ade-ac5ae3b152be.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -800px;
+    height: 20vh;
+}
+
+.name {
+    font-size: 150px;
+    padding: 0px 100px;
+    color: aliceblue;
+}
+
+.bioContainer {
+    width: 50%;
+    line-height: 30px;
+    text-align: justify;
+    padding: 20px 0px 0px 50px;
+}
+
+.contactContainer {
+    padding: 20px 0px 0px 50px;
+    line-height: 30px;
+}
+
+.contactContainer p {
+    width: 40%;
+    font-weight: 600;
+}
